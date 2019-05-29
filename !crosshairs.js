@@ -6,6 +6,6 @@
 	} 
 	else 
 	{
-		`Hero not found`;
+		"Hero not found";
 	}
 )
