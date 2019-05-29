@@ -1,0 +1,87 @@
+hero = {};
+
+hero["ana"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 8 | Center gap: 5 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["ashe"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["bastion"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 5 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["brig"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 5 | Center gap: 4 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["brigitte"] = hero["brig"];
+
+hero["dva"] = "Type: Default | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: Off";
+
+hero["d.va"] = hero["dva"];
+
+hero["doom"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["doomfist"] = hero["doom"];
+
+hero["genji"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["hammond"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["hanzo"] = "Type: Default | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50	| Dot size: 6 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["hog"] = "Type: Default | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["junk"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["junkrat"] = hero["junk"];
+
+hero["lucio"] = "Type: Dot | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 43 | Opacity: 70 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["mccree"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 8 | Center gap: 5 | Opacity: 80 | Outline opacity: 50 | Dot size: 2 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["mei"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["mercy"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 5 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["moira"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["null"] = `Usage: !crosshairs <hero>`;
+
+hero["orisa"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["pharah"] = "Type: Default | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["reaper"] = "Type: Default | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["rein"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["reinhardt"] = hero["rein"];
+
+hero["road"] = hero["hog"];
+
+hero["roadhog"] = hero["hog"];
+
+hero["soldier"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 5 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["soldier 76"] = hero["soldier"];
+
+hero["sombra"] = "Type: Circle | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 60 | Opacity: 80 | Outline opacity: 50 | Dot size: 4 | Dot opacity: 50 | Scale with resolution: On";
+
+hero["sym"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 5 | Dot opacity: 70 | Scale with resolution: On";
+
+hero["symmetra"] = hero["sym"];
+
+hero["torb"] = "Type: Dot | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["torbjorn"] = hero["torb"];
+
+hero["tracer"] = "Type: Default | Show accuracy: On | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 5 | Opacity: 80 | Outline opacity: 50 | Dot size: 10 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["widow"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 8 | Center gap: 5 | Opacity: 75 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["widowmaker"] = hero["widow"];
+
+hero["winston"] = "Type: Dot | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["wrecking ball"] = hero["hammond"];
+
+hero["zarya"] = "Type: Default | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 10 | Center gap: 10 | Opacity: 90 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 60 | Scale with resolution: On";
+
+hero["zen"] = "Type: Crosshairs | Show accuracy: Off | Color: Green | Thickness: 1 | Crosshair length: 6 | Center gap: 8 | Opacity: 80 | Outline opacity: 50 | Dot size: 6 | Dot opacity: 0 | Scale with resolution: On";
+
+hero["zenyatta"] = hero["zen"];
