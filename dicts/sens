@@ -1,0 +1,9 @@
+sens = {};
+ 
+sens["overwatch"] = "DPI: 800 | Sens: 5.4 | Scoped Sens: 35";
+ 
+sens["ow"] = sens["overwatch"];
+
+sens["apex"] = "1.6 Sens | 0.8 ADS";
+
+sens["al"] = sens["apex"];
