@@ -1,0 +1,11 @@
+!addcom !crosshairs $(eval
+	heroDict = $(urlfetch json https://pastebin.com/raw/Wg5tMVxv); 
+	if ("$(1)" in hero)
+	{
+		hero["$(1)"];
+	} 
+	else 
+	{
+		`Hero not found`;
+	}
+)
