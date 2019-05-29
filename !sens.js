@@ -7,7 +7,7 @@
 	}
 	else if (game in sens)
     	{
-        sens[game];
+        	sens[game];
     	}
     	else
     	{
