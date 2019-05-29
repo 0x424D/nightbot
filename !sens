@@ -1,0 +1,16 @@
+!editcom !sens $(eval
+    sensDict = $(urlfetch json https://pastebin.com/raw/7umadHkj);
+	game = "$(1)";
+	if (game == "null")
+	{
+		sens["ow"];
+	}
+    else if (game in sens)
+    {
+        sens[game];
+    }
+    else
+    {
+        "Game not found";
+    }
+)
