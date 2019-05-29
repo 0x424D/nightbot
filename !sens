@@ -1,5 +1,5 @@
 !editcom !sens $(eval
-    sensDict = $(urlfetch json https://pastebin.com/raw/7umadHkj);
+    sensDict = $(urlfetch json https://raw.githubusercontent.com/0x424D/nightbot/master/dicts/sens);
 	game = "$(1)";
 	if (game == "null")
 	{
